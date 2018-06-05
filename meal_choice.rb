@@ -17,7 +17,9 @@ end
 
 # Call the methods with puts and your own arguments here. Like this:
 puts snacks("Swedish fish")
-
+puts breakfast("pancakes")
+puts lunch("mac and cheese")
+puts dinner("steak")
 # Call your methods without any arguments here
 puts snacks
 puts breakfast
