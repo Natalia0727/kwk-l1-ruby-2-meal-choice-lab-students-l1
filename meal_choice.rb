@@ -13,7 +13,8 @@ puts snacks("Swedish fish")
 
 # call your methods here
 def breakfast(food="cereal")
-puts 
+puts "every day is a good day for #{food}"
+end
 
 # Call your methods without any arguments here
 puts snacks
