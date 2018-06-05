@@ -7,7 +7,7 @@ end
 def breakfast(food="cereal")
   puts "any day is a good day for #{food}"
 end
-
+def lunch(food="grill")
 
 
 # Call the methods with puts and your own arguments here. Like this:
