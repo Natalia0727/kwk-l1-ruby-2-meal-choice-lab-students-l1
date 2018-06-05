@@ -19,5 +19,5 @@ puts "every day is a good day for #{food}!"
 end
 
 # Call your methods without any arguments here
-puts snacks
-puts breakfast
+puts "snacks"
+puts "breakfast"
