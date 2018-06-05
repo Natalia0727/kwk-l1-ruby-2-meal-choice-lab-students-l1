@@ -20,3 +20,4 @@ end
 
 # Call your methods without any arguments here
 puts snacks
+puts breakfast
